@@ -1,10 +1,12 @@
+import { base } from "$app/paths";
+
 const publications = [
     {
         title: "How Private Is Your Browsing? Detecting GDPR Violations Through Robust Natural Language Processing and Thorough Static Program Analysis Techniques",
         authors: "Gary Song et al.",
         place: "MIT URTC '23",
         year: "2023",
-        link: "/2023236927.pdf"
+        link: `${base}/2023236927.pdf`
     },
     {
         title: "Heterogeneous dynamics of protein–RNA interactions across transcriptome-derived messenger RNA populations",

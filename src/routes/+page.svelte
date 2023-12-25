@@ -1,5 +1,5 @@
 <script>
-
+    import { base } from '$app/paths';
 </script>
 
 <style>
@@ -47,7 +47,7 @@
     <body class="main">
         <div class="large">
             <div class ="left">
-                <img src="src/images/gary.jpg" alt="meeee" id="gary"/>
+                <img src="{base}/images/gary.jpg" alt="meeee" id="gary"/>
             </div>
             <div class ="right">
                 <p>
@@ -59,12 +59,12 @@
                     </span>
                     <span>
                         <a href="mailto:gary.song2003@gmail.com">
-                            <img src="src/images/email.png" style= "width:35px; height: auto" alt="email"/>
+                            <img src="{base}/images/email.png" style= "width:35px; height: auto" alt="email"/>
                         </a>
                     </span>
                     <span>
                         <a href="https://github.com/freed2003">
-                            <img src="src/images/github.png" style= "width: 30px; height: auto" alt="email"/>
+                            <img src="{base}/images/github.png" style= "width: 30px; height: auto" alt="email"/>
                         </a>
                     </span>
                 </div>

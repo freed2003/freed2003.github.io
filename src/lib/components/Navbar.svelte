@@ -1,3 +1,7 @@
+<script>
+  import { base } from "$app/paths"
+</script>
+
 <style>
   nav.navbar {
 position: fixed;
@@ -163,19 +167,19 @@ nav.navbar {
   </label>
   <ul>
     <li>
-      <a href="/projects">Projects</a>
+      <a href="{base}/projects">Projects</a>
     </li>
     <li>
-      <a href="/research">Research</a>
+      <a href="{base}/research">Research</a>
     </li>
     <li>
-      <a href="/ctfs">CTFs</a>
+      <a href="{base}/ctfs">CTFs</a>
     </li>
     <li>
-      <a href="/about">About</a>
+      <a href="{base}/about">About</a>
     </li>
     <li id="home">
-      <a href="/" >Home</a>
+      <a href="{base}/" >Home</a>
     </li>
   </ul>
 </nav>
