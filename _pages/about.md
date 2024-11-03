@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: CSE & Math @ <a href='https://www.ucla.edu/'>UCLA</a>
 
 profile:
   align: right
