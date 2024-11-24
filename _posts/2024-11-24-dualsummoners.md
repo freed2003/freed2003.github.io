@@ -59,7 +59,7 @@ for _ in range(10):
 
 So we are also given an encrypt oracle, except that instead of returning the ciphertext it returns the computed tag from the AES object of our choice, either `aes1` or `aes2`. We get the flag if we can find an input such that the two ciphers return the same MAC.
 
-AES-GCM works in the field $$GF(2^128)$$ with polynomial $$x^{128} + x^7+x^2+x+1$$, so all further expressions will be implied to be in this field. Now how do we actually find the desired input, first let's look at how the tag is computed. Let 
+AES-GCM works in the field $$GF(2^{128})$$ with polynomial $$x^{128} + x^7+x^2+x+1$$, so all further expressions will be implied to be in this field. Now how do we actually find the desired input, first let's look at how the tag is computed. Let 
 
 $$
 c = c_1|c_2|c_3|\dots |c_n
