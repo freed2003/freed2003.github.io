@@ -2,10 +2,10 @@
 layout: post
 title: Buckeye 2023 Twin Prime
 date: 2023-10-03 15:09:00
-description: Twin primes are insecure
+description: "You know what's not one of a kind? A twin!"
 tags: crypto
 categories: ctf-writeups
-featured: true
+featured: false
 ---
 
 We are presented with the following code. 
