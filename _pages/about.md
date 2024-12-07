@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am currently a fourth year Computer Science & Engineering and Math major at UCLA. I enjoy all aspects of security, as I am a believer that all fields of computer science have a need for security. I am currently working on projects with Prof. Rafail Ostrovsky, Prof. Amit Sahai, and the SyssArch lab at UCLA advised by Prof. Nader Sehatbaksh. I have also done research with Sandia National Labs and will be working at Trail of Bits this winter as a security engineer intern.
+I am currently a fourth year Computer Science & Engineering and Math major at UCLA. I enjoy all aspects of security, as I am a believer that everything in the world has a need for security. I am currently working on projects with Prof. Rafail Ostrovsky, Prof. Amit Sahai, and the SyssArch lab at UCLA advised by Prof. Nader Sehatbaksh. In a past life, I was an aspiring chemist studying protein-mRNA interactions under Prof. Sean O'Leary at UCR. I have also done research with Sandia National Labs and will be working at Trail of Bits this winter as a security engineer intern.
 
 My current research interests lie in cryptography, from thereotical to applied topics. I am particularly interested in cryptanalysis and different attacks on cryptographic systems. On a similar note, I am also particularly interested in developing secure systems and ways to protect our information from the future.
 
